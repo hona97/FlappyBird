@@ -42,11 +42,11 @@ public class BackGround {
         x2 -= 2;
 
         if (x2 < 0) {
-            x1 = x2 + 900 ;
+            x1 = x2 + 900;
         }
         if (x1 < 0) {
             x2 = x1 + 900;
         }
     }
-    
+
 }
